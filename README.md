@@ -44,7 +44,7 @@ If you receive an error stating that `shutdown` is not recognized as an internal
 
 1. Open **System Properties** → **Advanced** → **Environment Variables**.
 2. Under **System Variables**, find **Path**, edit it, and add `C:\Windows\System32`.
-3. Restart your computer and try running the script again.
+3. Try again, and if there is the same error, then restart your computer and try running the script again.
 
 ## License
 
