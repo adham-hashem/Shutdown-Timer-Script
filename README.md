@@ -7,7 +7,7 @@ This is a simple batch script that schedules a system shutdown after a specified
 By default, this script will shut down your computer in **1 hour**.
 
 ### Steps to Use:
-1. **Download** or **copy** the script.
+1. **Download** the script.
 2. **Run** the script (`.bat` file) by double-clicking it.
 3. A message will appear indicating that the system will shut down in 1 hour.
 
