@@ -37,6 +37,14 @@ shutdown /a
 
 This will **abort** the scheduled shutdown.
 
+## Hiding the Console Window
+
+By default, the script keeps the console window open until the user presses a key. If you want the console to close immediately after running the script, remove the following line from the script:
+
+```batch
+pause
+```
+
 ## Troubleshooting
 
 ### 'shutdown' is Not Recognized as a Command
